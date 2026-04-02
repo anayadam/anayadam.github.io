@@ -166,3 +166,25 @@ header a {
     max-width: 100%;
   }
 }
+/* FORCE readable width (strong override) */
+.wrapper {
+  max-width: 900px !important;
+  margin: 60px auto !important;
+}
+
+/* Main content area (this is the key fix) */
+.wrapper section {
+  max-width: 650px !important;
+  margin: 0 auto !important;
+}
+
+/* Improve text readability */
+.wrapper section p {
+  line-height: 1.7;
+  margin-bottom: 18px;
+}
+
+/* Fix list spacing */
+.wrapper section ul {
+  margin-left: 20px;
+}
