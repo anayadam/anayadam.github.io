@@ -7,11 +7,16 @@ permalink: /teaching/
 ## Teaching Experience
 
 ### Current Teaching
-**ECN 142 - Economics & Business Data Analytics** (Instructor: Takuya Ura)
-- Office Hours: Thursday 3:30 - 4:50 PM (SSH 137)
+**Economics for Public Policy**  
+Seminar Leader — Graduate, MPP, University of Oxford  
+- Spring 2025
 
-### Past Teaching Assignments:
-**Teaching Assistant** 
-- ECN 140 (Econometrics)
-- ECN 102 (Analysis of Economic Data)
-- ECN 106 (Decision Making) 
+### Past Teaching Assignments
+**Summer Mentor**  
+- Labor Economics — ASYL Dubai Summer 2025  
+- Behavioral Economics, Data Analysis — Oxbridge Summer 2025  
+
+**Teaching Assistant**  
+- Advanced Econometrics, R Programming — Graduate, Universitas Gadjah Mada (Spring 2020)  
+- Econometrics I, Statistics, Development Economics — Undergraduate, Universitas Gadjah Mada (Spring 2019)  
+- Statistics — Undergraduate, Universitas Gadjah Mada (Spring 2018)
