@@ -1,2 +1,2 @@
-# LaurinCurschellas.github.io
+# jesitaajani.github.io
 Personal Webpage
