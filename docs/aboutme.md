@@ -11,8 +11,7 @@ I am a DPhil candidate in Public Policy at the University of Oxford and a Claren
 ### Education
 
 **University of Oxford**
-- DPhil in Public Policy (Expected 2028)
-- Research interest: development, labor, gender economics.
+- DPhil in Public Policy (2024–present)
 - Clarendon Scholar
 
 **Prior Education**
@@ -23,6 +22,8 @@ I am a DPhil candidate in Public Policy at the University of Oxford and a Claren
 ### Experience
 - Pre-Doctoral Fellow - NHH FAIR, Norway (2023–24)
 - Research Assistant - Blavatnik School of Government, University of Oxford (2022)
+- Research Assistant - Asian Development Bank (2021)
+- Evaluation Specialist - Coordinating Ministry for Economic Affairs (2020)
 - Consultant - Presidential Staff Office (2020)
 
 - [Download full CV (PDF)](/assets/files/CV_2026.pdf)
