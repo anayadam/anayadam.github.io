@@ -4,7 +4,7 @@ title: Anaya Dam
 permalink: /
 ---
 
-m a Postdoctoral Research Fellow at the University of Oxford. I hold a Ph.D. in Economics from Utrecht University. 
+I am a Postdoctoral Research Fellow at the University of Oxford. I hold a Ph.D. in Economics from Utrecht University. 
 
 My research interests are in development economics, specifically education and gender. 
 
