@@ -7,7 +7,13 @@ permalink: /research/
 ## Research
 
 ### Working Papers
-- Sport Shock, Masculinity Norms, and Online Misogyny
+- Targeting men, women or both to reduce child marriage.
+  [Working Paper]({https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage)
+  (with with Rachel Cassidy, Wendy Janssens, Umair Kiani \& Karlijn Morsink)
+
+### Targeting men, women or both to reduce child marriage  
+*with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
+[Read paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*
 
 - What is in Childcare: Childcare Attributes and Mothers’ Employment  
   (with [Daniel Halim](https://www.danielhalim.com/))
