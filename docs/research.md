@@ -22,22 +22,33 @@ Add your abstract text here. You can write multiple sentences or even paragraphs
 Add your abstract text here.
 </details>
 
-- What is in Childcare: Childcare Attributes and Mothers’ Employment  
-  (with [Daniel Halim](https://www.danielhalim.com/))
+<br>
 
-- Broadcasting Norms: State Media, Intrahousehold Dynamics, and Child Welfare  
-  (with [Fadhil Nadhif Muharam](https://sites.google.com/adhiprayogo.net/fadhilnadhifmuharam/research?authuser=0))
+**Intimate partner violence and women’s economic preferences**  
+*with Dan Anderberg, Rachel Cassidy, Melissa Hidrobo, Jessica Leight & Karlijn Morsink*  
+[Paper](https://arxiv.org/abs/2507.10416) · *Submitted*  
+<details><summary>Abstract</summary>
+Add your abstract text here.
+</details>
 
-- LinkinOut Harassment: A targeted social media experiment to reduce workplace harassment towards women in India  
-  (with [Anaya Dam](https://www.wwhge.org/people/anaya-dam/) and [Diego Dabed](https://ddabed.github.io/))
+<br>
 
-- Home-Based Childcare for Low-Income Households in Bangladesh
-  (with [Shaila Ahmed](https://bigd.bracu.ac.bd/staffprofile/shaila-ahmed/), [Diva Dhar](https://www.divadhar.com/), [Anandi Mani](https://www.anandimani.com/), [Munshi Sulaiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/), and [Sakila Yesmin](https://bigd.bracu.ac.bd/staffprofile/sakila-yesmin-brac-ied/))
+**Learning to work towards goals: A sequential evaluation of the effect of a goal-setting course on academic and soft skills**  
+*with Guthrie Gray-Lobe, Michael Kremer, Joost de Laat & Karlijn Morsink*  
+[Paper](https://www.nber.org/papers/w34562)  
+<details><summary>Abstract</summary>
+Add your abstract text here.
+</details>
 
-### Research Interests
 
-- Development Economics
-- Labor Economics
-- Gender
-- Political Economy
+## Work in progress
 
+**LinkinOut harassment: A targeted social media experiment to reduce workplace harassment towards women**  
+*with Jesita Ajani & Diego Dabed Sitnisky*  
+*Funded, RCT ongoing*
+
+<br>
+
+**Freedom within: Can foundational skills expand agency under severe constraints?**  
+*with Noam Angrist, Michael Callen, Claire Cullen, Oeindrila Dube & Saipremnath Muthukumaran*  
+*Funded, RCT completed*
