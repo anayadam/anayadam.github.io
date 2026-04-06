@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Jesita Wida Ajani
+title: Anaya Dam
 permalink: /
 ---
 
-I am a DPhil candidate in Public Policy at the University of Oxford and a Clarendon Scholar.
+m a Postdoctoral Research Fellow at the University of Oxford. I hold a Ph.D. in Economics from Utrecht University. 
 
-My research focuses on development, labor, gender, and political economy. 
-
-I am particularly interested in how social norms shape female labor force participation, household decision-making, 
-
-and well-being in developing countries.
+My research interests are in development economics, specifically education and gender. 
 
 ## Pages
 
@@ -20,5 +16,5 @@ and well-being in developing countries.
 
 ## Contact
 
-Email: [jesita.ajani@bsg.ox.ac.uk](mailto:jesita.ajani@bsg.ox.ac.uk)  
-CV: [Download full CV (PDF)](/assets/files/CV_20262.pdf)
+[Email](mailto:anaya.dam@bsg.ox.ac.uk)  
+[CV](/assets/files/CV.pdf)
