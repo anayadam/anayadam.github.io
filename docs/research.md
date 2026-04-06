@@ -13,6 +13,8 @@ permalink: /research/
 Add your abstract text here. You can write multiple sentences or even paragraphs, and it will stay hidden until clicked.
 </details>
 
+<br>
+<br>
 
 **Keeping the peace while getting your way: Information, persuasion, and intimate partner violence**  
 *with Dan Anderberg, Rachel Cassidy, Wendy Janssens, Umair Kiani, Karlijn Morsink & Anouk van Veldhoven*  
