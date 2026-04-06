@@ -13,8 +13,3 @@ My research interests are in development economics, specifically education and g
 - [About Me](/about-me/)
 - [Research](/research/)
 - [Teaching](/teaching/)
-
-## Contact
-
-[Email](mailto:anaya.dam@bsg.ox.ac.uk)  
-[CV](/assets/files/CV.pdf)
