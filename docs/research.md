@@ -4,12 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-## Research
+## Working Papers
 
-### Working Papers
-- Targeting men, women or both to reduce child marriage.
-  [Working Paper]({https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage)
-  (with with Rachel Cassidy, Wendy Janssens, Umair Kiani \& Karlijn Morsink)
+**Targeting men, women or both to reduce child marriage**  
+*with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
+[Read paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*
 
 ### Targeting men, women or both to reduce child marriage  
 *with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
