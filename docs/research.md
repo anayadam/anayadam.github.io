@@ -17,6 +17,27 @@ permalink: /research/
 Add your abstract text here. You can write multiple sentences or even paragraphs, and it will stay hidden until clicked.
 </details> · [Draft](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*  
 
+**Targeting men, women or both to reduce child marriage**  
+*with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
+[Paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*  
+
+<details>
+<summary>Abstract · Draft · Ethics Appendix · Coverage</summary>
+
+**Abstract**  
+Add your abstract text here.
+
+**Draft**  
+[Link to draft](#)
+
+**Ethics Appendix**  
+[Link to appendix](#)
+
+**Coverage**  
+XYZ
+
+</details>
+
 
 
 - What is in Childcare: Childcare Attributes and Mothers’ Employment  
