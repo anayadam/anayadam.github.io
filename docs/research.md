@@ -8,11 +8,18 @@ permalink: /research/
 
 **Targeting men, women or both to reduce child marriage**  
 *with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
-[Read paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*
+[Paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*
 
-### Targeting men, women or both to reduce child marriage  
+**Targeting men, women or both to reduce child marriage**  
 *with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
-[Read paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*
+[Paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*  
+
+<details>
+<summary>Abstract</summary>
+
+Add your abstract text here. You can write multiple sentences or even paragraphs, and it will stay hidden until clicked.
+
+</details>
 
 - What is in Childcare: Childcare Attributes and Mothers’ Employment  
   (with [Daniel Halim](https://www.danielhalim.com/))
