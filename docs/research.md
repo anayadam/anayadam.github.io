@@ -46,7 +46,7 @@ This study sequentially evaluates a soft-skills course implemented in Ugandan an
 
 **LinkinOut harassment: A targeted social media experiment to reduce workplace harassment towards women**  
 *with Jesita Ajani & Diego Dabed Sitnisky*  
-Blog: [Social media experiments](https://g2lm-lic.iza.org/publications/pb/experiments-on-social-media/), [Harassment Rates](https://g2lm-lic.iza.org/publications/pb/seventy-percent-the-reality-of-workplace-harassment-in-india/) · *Funded, RCT ongoing*
+Blog: [Social media experiments](https://g2lm-lic.iza.org/publications/pb/experiments-on-social-media/), [Harassment rates](https://g2lm-lic.iza.org/publications/pb/seventy-percent-the-reality-of-workplace-harassment-in-india/) · *Funded, RCT ongoing*
 
 
 **Freedom within: Can foundational skills expand agency under severe constraints?**  
