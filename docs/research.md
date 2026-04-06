@@ -53,5 +53,5 @@ Blog: [Social media experiments](https://g2lm-lic.iza.org/publications/pb/experi
 *with Noam Angrist, Michael Callen, Claire Cullen, Oeindrila Dube & Saipremnath Muthukumaran*  
 [AEA-RCT Registration](https://www.socialscienceregistry.org/trials/17807) · *Funded, RCT completed*
 
-**Stories that Shape Us: Evidence from a Gender-Empowering Literacy Program**  
+**Stories that shape us: Evidence from a gender-empowering literacy program**  
 *with Noam Angrist, Emilie Berkhout, Konstantin Buchel & Tendekai Mukoyi*  
