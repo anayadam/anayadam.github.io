@@ -8,37 +8,18 @@ permalink: /research/
 
 **Targeting men, women or both to reduce child marriage**  
 *with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
-[Paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*
-
-**Targeting men, women or both to reduce child marriage**  
-*with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
 [Paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*  
 <details><summary>Abstract</summary>
 Add your abstract text here. You can write multiple sentences or even paragraphs, and it will stay hidden until clicked.
 </details>
 
-**Targeting men, women or both to reduce child marriage**  
-*with Rachel Cassidy, Wendy Janssens, Umair Kiani & Karlijn Morsink*  
-[Paper](https://ifs.org.uk/publications/father-bride-or-steel-magnolias-targeting-men-women-or-both-reduce-child-marriage) · *Submitted*  
 
-<details>
-<summary>Abstract · Draft · Ethics Appendix · Coverage</summary>
-
-**Abstract**  
+**Keeping the peace while getting your way: Information, persuasion, and intimate partner violence**  
+*with Dan Anderberg, Rachel Cassidy, Wendy Janssens, Umair Kiani, Karlijn Morsink & Anouk van Veldhoven*  
+[Paper](https://www.cesifo.org/en/publications/2024/working-paper/keeping-peace-while-getting-your-way-information-persuasion-and) · *Submitted*  
+<details><summary>Abstract</summary>
 Add your abstract text here.
-
-**Draft**  
-[Link to draft](#)
-
-**Ethics Appendix**  
-[Link to appendix](#)
-
-**Coverage**  
-XYZ
-
 </details>
-
-
 
 - What is in Childcare: Childcare Attributes and Mothers’ Employment  
   (with [Daniel Halim](https://www.danielhalim.com/))
